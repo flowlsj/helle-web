@@ -2,7 +2,7 @@
    "canisters": {
        "mining-lab-icp-test": {
            "frontend": {
-                "entrypoint": "src/index.html"
+                "entrypoint": "static/index.html"
             },
            "type": "assets",
            "source": ["static"]
