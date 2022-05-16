@@ -1,0 +1,11 @@
+{
+   "canisters": {
+       "mining-lab-icp-test": {
+           "frontend": {
+                "entrypoint": "src/index.html"
+            },
+           "type": "assets",
+           "source": ["static"]
+       }
+   }
+}
